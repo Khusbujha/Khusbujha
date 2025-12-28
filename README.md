@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Khusbu👋
+**Khusbu Kumari Jha**
 
-<!--
-**Khusbujha/Khusbujha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a BSc (Hons) Computing student at The British College.
+This GitHub profile showcases my academic programming work and learning progress.
 
-Here are some ideas to get you started:
+## Skills
+- Python (fundamentals)
+- C (fundamentals)
+- C++ (intermediate)
+- HTML & CSS (Fundamentals)
+- Git & GitHub
+- Visual Studio Code (VS Code)
+- Problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Academic Work
+- Weekly and bi-weekly programming exercises
+- HTML & CSS academic projects
+- Basic Practice programs
+
+## Learning Goals
+- Improve Python programming skills
+- Learn how to structure larger programs
+- Gain confidence using version control
+- Learn how front-end and back-end work and interact with each other.
+
+## Note on AI Use
+AI tools were used to assist with learning and understanding concepts.
+All submitted work is my own and understood by me.
