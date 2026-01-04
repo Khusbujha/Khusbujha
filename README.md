@@ -2,7 +2,7 @@
 **Khusbu Kumari Jha**
 
 ## About Me
-BSc (Hons) Computing student at The British College
+BSc (Hons) Computing student at The British College,
 Passionate about programming, problem-solving and continuous learning
 
 ## Skills
