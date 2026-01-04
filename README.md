@@ -2,8 +2,8 @@
 **Khusbu Kumari Jha**
 
 ## About Me
-I am a BSc (Hons) Computing student at The British College.
-This GitHub profile showcases my academic programming work and learning progress.
+BSc (Hons) Computing student at The British College
+Passionate about programming, problem-solving and continuous learning
 
 ## Skills
 - Python (fundamentals)
@@ -12,7 +12,7 @@ This GitHub profile showcases my academic programming work and learning progress
 - HTML & CSS (Fundamentals)
 - Git & GitHub
 - Visual Studio Code (VS Code)
-- Problem solving
+- Problem solving and logical thinking
 
 ## Academic Work
 - Weekly and bi-weekly programming exercises
